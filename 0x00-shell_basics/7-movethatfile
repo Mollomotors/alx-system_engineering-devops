@@ -1,2 +1,2 @@
 #!/bin/bash 
- mv /tmp/betty /alx/
+ mv /tmp/betty /tmp/holberton/
